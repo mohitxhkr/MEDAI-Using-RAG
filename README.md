@@ -29,7 +29,3 @@ A compassionate and supportive mental health chatbot powered by **LangChain**, *
 - [Ollama](https://ollama.com/)
 - [Streamlit](https://streamlit.io/)
 
----
-
-## 📁 Folder Structure
-
