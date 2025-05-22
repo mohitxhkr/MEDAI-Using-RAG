@@ -16,6 +16,9 @@ huggingface-hub
 transformers
 torch
 
+# PDF parsing
+pypdf
+
 # Environment variable management
 python-dotenv
 
